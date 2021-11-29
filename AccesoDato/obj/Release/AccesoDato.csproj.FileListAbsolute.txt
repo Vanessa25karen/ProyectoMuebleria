@@ -1,0 +1,12 @@
+C:\Users\ARTURO MORALES\Desktop\Proyecto Karen\ProyectoMuebleria\AccesoDato\bin\Release\AccesoDato.dll
+C:\Users\ARTURO MORALES\Desktop\Proyecto Karen\ProyectoMuebleria\AccesoDato\bin\Release\AccesoDato.pdb
+C:\Users\ARTURO MORALES\Desktop\Proyecto Karen\ProyectoMuebleria\AccesoDato\obj\Release\AccesoDato.csprojAssemblyReference.cache
+C:\Users\ARTURO MORALES\Desktop\Proyecto Karen\ProyectoMuebleria\AccesoDato\obj\Release\AccesoDato.csproj.CoreCompileInputs.cache
+C:\Users\ARTURO MORALES\Desktop\Proyecto Karen\ProyectoMuebleria\AccesoDato\obj\Release\AccesoDato.dll
+C:\Users\ARTURO MORALES\Desktop\Proyecto Karen\ProyectoMuebleria\AccesoDato\obj\Release\AccesoDato.pdb
+C:\Users\Jose Romo\Desktop\Karen\ProyectoMuebleria\AccesoDato\bin\Release\AccesoDato.dll
+C:\Users\Jose Romo\Desktop\Karen\ProyectoMuebleria\AccesoDato\bin\Release\AccesoDato.pdb
+C:\Users\Jose Romo\Desktop\Karen\ProyectoMuebleria\AccesoDato\obj\Release\AccesoDato.csproj.AssemblyReference.cache
+C:\Users\Jose Romo\Desktop\Karen\ProyectoMuebleria\AccesoDato\obj\Release\AccesoDato.csproj.CoreCompileInputs.cache
+C:\Users\Jose Romo\Desktop\Karen\ProyectoMuebleria\AccesoDato\obj\Release\AccesoDato.dll
+C:\Users\Jose Romo\Desktop\Karen\ProyectoMuebleria\AccesoDato\obj\Release\AccesoDato.pdb

@@ -1,0 +1,6 @@
+C:\Users\ARTURO MORALES\Desktop\Proyecto Karen\ProyectoMuebleria\AccesoDato\bin\Debug\AccesoDato.dll
+C:\Users\ARTURO MORALES\Desktop\Proyecto Karen\ProyectoMuebleria\AccesoDato\bin\Debug\AccesoDato.pdb
+C:\Users\ARTURO MORALES\Desktop\Proyecto Karen\ProyectoMuebleria\AccesoDato\obj\Debug\AccesoDato.csprojAssemblyReference.cache
+C:\Users\ARTURO MORALES\Desktop\Proyecto Karen\ProyectoMuebleria\AccesoDato\obj\Debug\AccesoDato.csproj.CoreCompileInputs.cache
+C:\Users\ARTURO MORALES\Desktop\Proyecto Karen\ProyectoMuebleria\AccesoDato\obj\Debug\AccesoDato.dll
+C:\Users\ARTURO MORALES\Desktop\Proyecto Karen\ProyectoMuebleria\AccesoDato\obj\Debug\AccesoDato.pdb
